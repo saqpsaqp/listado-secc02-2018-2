@@ -6,4 +6,4 @@ el formato MarkDown para las tablas.
 | Cedula     | Nombres          | Apellidos          | Correo                     | Usuario GitHub |
 |------------|------------------|--------------------|----------------------------|----------------|
 | 12.345.678 | Fulano Melgarejo | Primitivo Arduanga | fulado.primitivo@gmail.com | fulanop        |
-|            |                  |                    |                            |                |
+|    1        |         a         |            b        |                  c          |        d        |
