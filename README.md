@@ -6,4 +6,6 @@ el formato MarkDown para las tablas.
 | Cedula     | Nombres          | Apellidos          | Correo                     | Usuario GitHub |
 |------------|------------------|--------------------|----------------------------|----------------|
 | 26.122.874 | Manuel Ramon     | Puentes Diaz       |manuel.r.puentes.d@gmail.com| ManuelPuentes  |
+| 12.345.678 | Fulano Melgarejo | Primitivo Arduanga | fulado.primitivo@gmail.com | fulanop        |
+| 26.981.471 | Emmanuel Ali     | Guerra Sánchez     | emmanuelnypd@gmail.com     | eagskunst      |
 |            |                  |                    |                            |                |
