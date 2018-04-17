@@ -5,5 +5,5 @@ el formato MarkDown para las tablas.
 ## Listado
 | Cedula     | Nombres          | Apellidos          | Correo                     | Usuario GitHub |
 |------------|------------------|--------------------|----------------------------|----------------|
-| 12.345.678 | Fulano Melgarejo | Primitivo Arduanga | fulado.primitivo@gmail.com | fulanop        |
+| 26.955.290 | Alejandro Jesus  | Lopez Pinto        |alejanrdo.lopezp@unet.edu.ve| AlexUnet       |
 |            |                  |                    |                            |                |
