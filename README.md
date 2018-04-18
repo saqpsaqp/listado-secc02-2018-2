@@ -13,3 +13,4 @@ el formato MarkDown para las tablas.
 | 26.981.471 | Emmanuel Ali     | Guerra Sánchez     | emmanuelnypd@gmail.com     |  eagskunst     |
 | 27.271.032 | Diego Alexander  | Fernandez Afanador | diegoafanador10@gmail.com  | diegofer03     |
 | 27.724.471 |AlejandraValentina| Vivas Guerrero     |alejandra.vivas@unet.edu.ve | vivasgalejandra|
+| 27.239.829 | Orazio           | Cappadonna Cantor  |oraziocappadonna@hotmail.com| orazioc17      |
