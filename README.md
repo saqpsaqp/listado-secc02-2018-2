@@ -12,3 +12,4 @@ el formato MarkDown para las tablas.
 | 26.122.874 | Manuel Ramon     | Puentes Diaz       |manuel.r.puentes.d@gmail.com|  ManuelPuentes |
 | 26.981.471 | Emmanuel Ali     | Guerra Sánchez     | emmanuelnypd@gmail.com     |  eagskunst     |
 | 27.271.032 | Diego Alexander  | Fernandez Afanador | diegoafanador10@gmail.com  | diegofer03     |
+| 26.665.544 | Yéferson Saúl    | Pérez Ostos        | theuknow26@gmail.com       | YefersonPerez  | 
