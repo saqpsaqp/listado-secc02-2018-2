@@ -1,4 +1,4 @@
-# Listado de Alumnos Secc02 Lapso 2018-2
+﻿# Listado de Alumnos Secc02 Lapso 2018-2
 ## Intrucciones
 Actualize sus datos en éste archivo Readme y haga un pull request con los datos actualizados.  Siga 
 el formato MarkDown para las tablas.
@@ -12,3 +12,4 @@ el formato MarkDown para las tablas.
 | 26.122.874 | Manuel Ramon     | Puentes Diaz       |manuel.r.puentes.d@gmail.com|  ManuelPuentes |
 | 26.981.471 | Emmanuel Ali     | Guerra Sánchez     | emmanuelnypd@gmail.com     |  eagskunst     |
 | 27.271.032 | Diego Alexander  | Fernandez Afanador | diegoafanador10@gmail.com  | diegofer03     |
+| 27.724.471 |AlejandraValentina| Vivas Guerrero     |alejandra.vivas@unet.edu.ve | vivasgalejandra|
