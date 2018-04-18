@@ -1,4 +1,4 @@
-# Listado de Alumnos Secc02 Lapso 2018-2
+﻿# Listado de Alumnos Secc02 Lapso 2018-2
 ## Intrucciones
 Actualize sus datos en éste archivo Readme y haga un pull request con los datos actualizados.  Siga 
 el formato MarkDown para las tablas.
@@ -13,3 +13,4 @@ el formato MarkDown para las tablas.
 | 26.981.471 | Emmanuel Ali     | Guerra Sánchez     | emmanuelnypd@gmail.com     |  eagskunst     |
 | 27.271.032 | Diego Alexander  | Fernandez Afanador | diegoafanador10@gmail.com  | diegofer03     |
 | 25.727.852 | Andres Arthuro   | Narea Martrinez    | andres.narea@unet.edu.ve   | LonerLuxio     |
+| 27.239.829 | Orazio           | Cappadonna Cantor  |oraziocappadonna@hotmail.com| orazioc17      |
