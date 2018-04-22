@@ -19,7 +19,8 @@ el formato MarkDown para las tablas.
 | 27.239.829 | Orazio           | Cappadonna Cantor  |oraziocappadonna@hotmail.com| orazioc17      |
 | 28.489.290 | Manuel           | Gómez Villamizar   | manugom10@gmail.com        |   Manugomvil   |
 | 26.566.446 | Ruben Daniel     | Rincon Navas       |ruben.rinconn@unet.edu.ve   | RubenDRinconN  |
-| 27.227.057 |Victor Dario      | Fernandez Contreras|victordario.fernandez@unet.edu.ve | VicDario |
+| 24.337.041 | Andres David     | Osorio Lozada      | andres.osoriol@unet.edu.ve | andavol96 |
+| 27.227.057 | Victor Dario     | Fernandez Contreras|victordario.fernandez@unet.edu.ve | VicDario |
 | 27.675.632 | Oriana Stefany   | Bautista Iscala    |oriana.bautista@unet.edu.ve | OrianaBautista |
 | 27.675.727 | Rosaymar de los Milagros| Medina Zerpa |rosaymar.medina@unet.edu.ve | RosaymarMedina |
 | 27.361.503 | Cecilia del Carmen| Zambrano Angulo   |cecilia.zambrano@unet.edu.ve| cczam          |
