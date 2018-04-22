@@ -25,3 +25,4 @@ el formato MarkDown para las tablas.
 | 27.675.632 | Oriana Stefany   | Bautista Iscala    |oriana.bautista@unet.edu.ve | OrianaBautista |
 | 27.675.727 | Rosaymar de los Milagros| Medina Zerpa |rosaymar.medina@unet.edu.ve | RosaymarMedina |
 | 27.361.503 | Cecilia del Carmen| Zambrano Angulo   |cecilia.zambrano@unet.edu.ve| cczam          |
+| 26.892.602 | Rafael     | Fuentes     | rafael.fuentesp@unet.edu.ve     |  rafptiwi     |
