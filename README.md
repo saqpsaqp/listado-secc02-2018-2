@@ -18,3 +18,4 @@ el formato MarkDown para las tablas.
 | 27.239.829 | Orazio           | Cappadonna Cantor  |oraziocappadonna@hotmail.com| orazioc17      |
 | 28.489.290 | Manuel           | Gómez Villamizar   | manugom10@gmail.com        |   Manugomvil   |
 | 26.566.446 | Ruben Daniel     | Rincon Navas       |ruben.rinconn@unet.edu.ve   | RubenDRinconN  |
+| 27.643.282 | Kabir Leonardo   | Contreras Quiroz   | kabir.contreras@unet.edu.ve | kabircontreras |
