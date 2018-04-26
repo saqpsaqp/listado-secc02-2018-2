@@ -26,3 +26,4 @@ el formato MarkDown para las tablas.
 | 27.675.727 | Rosaymar de los Milagros| Medina Zerpa |rosaymar.medina@unet.edu.ve | RosaymarMedina |
 | 27.361.503 | Cecilia del Carmen| Zambrano Angulo   |cecilia.zambrano@unet.edu.ve| cczam          |
 | 26.209.304 | Arit Von         | Vanegas Sanchez    | arit.vanegasunet.edu.ve     | AritVanegas   |
+| 26.287.101 | Héctor Reinaldo  | Barrios Rosales    | hector.barriosr@unet.edu.ve| HectorBarrios98|
